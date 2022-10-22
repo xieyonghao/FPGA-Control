@@ -28,22 +28,10 @@ The optimization algorithm mainly uses reinforcement learning methods to optimiz
   <img align="middle" width="800" src="data/DNN.png"/>
 </p>
 
-
-
-## Citation
-```
-@inproceedings{Zhang Canadian Journal of Soil Science
-  title     = {A Self-adjusting Parametric Model for Attenuation Characteristics of WUSN},
-  author    = {Jiawei Zhang, Yonghao Xie, Mingze Yuan, Mingbao Li},
-  booktitle = {Canadian Journal of Soil Science},
-  year      = {2022}
-}
-```
-
 ## Acknowledgement
 
 Thank you for the support of the National Key Technologies Research and Development Program of China.
 
 ## Contact
 
-Yonghao Xie(2020111721@nefu.edu.cn)
+Jiawei Zhang(zjw@nefu.edu.cn)
