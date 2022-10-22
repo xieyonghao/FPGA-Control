@@ -6,13 +6,12 @@ The head of project Research on Control Methods and Technologies for Inertial Se
 I am responsible for the development of transfer functions and noise equivalent models for the key units of the AC feedback actuation system, then determine the noise sources of the AC feedback actuator system and complete the noise index allocation according to the project requirement index, establish AC feedback actuator noise theory analysis and experimental research.
 
 ## Introduction
-<!-- <p align="center">
+<p align="center">
   <big><b>Study structure diagram</b></big>
 </p>
 
-
 <p align="center">
-  <img align="middle" width="300" src="data/tianqin.png"/>
+  <img align="middle" width="300" src="data/tianqin.png"/>→<img align="middle" width="300" src="data/tianqin2.png"/><img align="middle" width="600" src="data/actuator.png"/>
 </p>
 
 After forming the theoretical model, the hardware structure and optimisation algorithms are used to improve the noise in the time-sharing control mode and the frequency-sharing control mode.
@@ -26,7 +25,7 @@ Hardware is employed with integral feedback, correlated multisampling and modula
 The optimization algorithm mainly uses reinforcement learning methods to optimize circuit parameters to achieve optimal circuit parameters, thus reducing circuit noise and achieving voltage noise within 10uV/Hz-1/2- in the low frequency band.   
 
 <p align="center">
-  <img align="middle" width="800" src="data/DNN.png"/>
+  <img align="middle" width="600" src="data/DNN.png"/>
 </p>
 
 ## Acknowledgement
