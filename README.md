@@ -7,12 +7,12 @@ I am responsible for the development of transfer functions and noise equivalent 
 
 ## Introduction
 <!-- <p align="center">
-  <big><b>A Self-adjusting Parametric Model for Attenuation Characteristics of WUSN Signal (Canadian Journal of Soil Science 2022)</b></big>
+  <big><b>Study structure diagram</b></big>
 </p>
 
 
 <p align="center">
-  <img align="middle" width="300" src="data/tianqin.png"/>****→****<img align="middle" width="300" src="data/tianqin2.png"/><img align="middle" width="600" src="data/actuator.png"/>
+  <img align="middle" width="300" src="data/tianqin.png"/><img align="middle" width="300" src="data/tianqin2.png"/><img align="middle" width="600" src="data/actuator.png"/>
 </p>
 
 After forming the theoretical model, the hardware structure and optimisation algorithms are used to improve the noise in the time-sharing control mode and the frequency-sharing control mode.
