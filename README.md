@@ -1,11 +1,11 @@
 # National Key Research and Development Programme: Research on control methods and technologies for inertial sensors
 
-### **[Research on Control Methods and Technologies for Inertial Sensors and Tianqin Centre](https://tianqin.sysu.edu.cn/) **  
+### **[[Research on Control Methods and Technologies for Inertial Sensors and Tianqin Centre](https://tianqin.sysu.edu.cn/) ]**  
 The head of project Research on Control Methods and Technologies for Inertial Sensors: Supervisor [Jiwe Zhang](https://cmee.nefu.edu.cn/info/1074/3442.htm), participants [Yonghao Xie](https://github.io/xieyonghao)   
 
 I am responsible for the development of transfer functions and noise equivalent models for the key units of the AC feedback actuation system, then determine the noise sources of the AC feedback actuator system and complete the noise index allocation according to the project requirement index, establish AC feedback actuator noise theory analysis and experimental research.
 
-## Introduction.
+## Introduction
 <!-- <p align="center">
   <big><b>Research Content Structure</b></big>
 </p>
