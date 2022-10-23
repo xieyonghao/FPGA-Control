@@ -11,7 +11,7 @@ The control signal is generated in the FPGA, and the control signal is modulated
 </p>
 
 <p align="center">
-  <img align="middle" width="300" src="data/sh.png"/>
+  <img align="middle" width="400" src="data/sh.png"/><img align="middle" width="300" src="data/mod.png"/>
 </p>
 
 After forming the digitally modulated signals, After DAC circuitry, the analogue voltage is obtained.
